@@ -1,5 +1,5 @@
 # Avery Nuker
-Discord Server Nuker
+Fastest Discord Python Server Nuker
 
 ## Support
 For help and support you can join add my discord: skeet#1000
