@@ -10,7 +10,8 @@ Fastest Python Discord Server Nuker
 - Enter your user token or bot token.
 
 ## Support
-For help and support you can add my discord: `skeet#1000`
+For help and support you can add my discord: `skeet#7000`
+Also if you skid this give me credits
 
 ## Warning
 All of these tools are used by your own risk, i do not take responsiblity for any of your actions.
