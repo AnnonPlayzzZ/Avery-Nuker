@@ -9,9 +9,6 @@ Fastest Python Discord Server Nuker
 - Open `avery.exe`.
 - Enter your user token or bot token.
 
-## Credits
-skeet, yum
-
 ## Support
 For help and support you can add my discord: `skeet#7000`
 Also if you skid this give me credits
